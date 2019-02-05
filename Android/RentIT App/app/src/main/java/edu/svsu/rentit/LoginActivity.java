@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
                 EditText etUserName = findViewById(R.id.username);
                 String username = etUserName.getEditableText().toString();
                 EditText etPassword = findViewById(R.id.password);
-                String password = etPassword.getEditableText().toString();
+                String  password = etPassword.getEditableText().toString();
 
 
                 new LoginTask().execute(username, password);

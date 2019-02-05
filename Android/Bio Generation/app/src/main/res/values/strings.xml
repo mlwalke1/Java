@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BioGeneration</string>
+    <string name="title_activity_display_gen">DisplayGen</string>
+    <string-array name="majors">
+        <item>Computer Science</item>
+        <item>Mathematics</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="degrees">
+        <item>B.S.</item>
+        <item>Ph.D.</item>
+        <item>BFA</item>
+    </string-array>
+</resources>
